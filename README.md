@@ -1,6 +1,7 @@
 # Standard formulation
 ```javascript
 https://developer.mozilla.org/zh-CN
+
 Mozilla（缩写MF或MoFo）全称Mozilla基金会，是为支持和领导开源的Mozilla项目而设立的一个非营利组织。该组织制定管理开发政策，经营关键基础组织并管理商标及其他知识产权。
 ```
 
