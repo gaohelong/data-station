@@ -13,6 +13,13 @@ Mozilla（缩写MF或MoFo）全称Mozilla基金会，是为支持和领导开源
 https://developer.mozilla.org/zh-CN/docs/Web/API/FormData/Using_FormData_Objects
 ```
 
+# XMLHttpRequest
+#### Fetch
+```
+https://www.w3ctech.com/topic/854
+https://fetch.spec.whatwg.org/
+```
+
 # PlugIn
 
 ## Iframe
