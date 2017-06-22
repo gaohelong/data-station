@@ -1,6 +1,6 @@
 # Standard formulation
 
-### Mozilla
+## Mozilla
 ```javascript
 https://developer.mozilla.org/zh-CN
 
