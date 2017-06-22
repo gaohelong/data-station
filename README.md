@@ -30,3 +30,10 @@ https://developer.mozilla.org/zh-CN/docs/Web/API/FormData/Using_FormData_Objects
 
 ## Other
 #### fastclick.js（点击穿透与延迟处理)
+
+# Nodejs
+English:  https://nodejs.org
+Chinease: http://nodejs.cn/
+
+## npmjs
+https://www.npmjs.com/
