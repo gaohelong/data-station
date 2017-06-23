@@ -51,6 +51,11 @@ Chinease: http://nodejs.cn/
 https://www.npmjs.com/
 ```
 
+#### happypack
+```javascript
+多进程加快webpack构建速度
+```
+
 #### json3
 ```javascript
 JSON 3是一种与各种JavaScript平台兼容的现代JSON实现，包括Internet Explorer 6、Opera 7、Safari 2和Netscape 6。
