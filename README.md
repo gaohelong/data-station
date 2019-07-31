@@ -79,3 +79,6 @@ JSON 3是一种与各种JavaScript平台兼容的现代JSON实现，包括Intern
 [iconfont](https://www.iconfont.cn/)
 [momentjs](http://momentjs.cn/docs/#/get-set/)
 [css手册](http://phpstudy.php.cn/css3/)
+
+#### encode
+https://www.sojson.com/
